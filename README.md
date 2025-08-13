@@ -2,10 +2,7 @@
 
 Official PyTorch implementation of  **Mosaic**: Composite Projection Pruning for Resource-Efficient LLMs
 
-[Bailey Jack Eccles](https://scholar.google.com/citations?user=qMdsQCsAAAAJ&hl=en), Leon Wong, Blesson Varghese
-
-**University of St Andrews, Rakuten Mobile, Inc.**
-
+[Bailey Jack Eccles](https://scholar.google.com/citations?user=qMdsQCsAAAAJ&hl=en) (University of St Andrews, UK), Leon Wong (Rakuten Mobile, Inc., Japan), Blesson Varghese (University of St Andrews, UK)
 
 <p align="center">
 <img src="./image.png">
